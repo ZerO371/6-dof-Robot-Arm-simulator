@@ -202,7 +202,7 @@ def main():
         refresh_labels()
         show_fig()
 
-    # mode 2
+    # patten 2
     def set_pattern_two():
         params[11] = 90
         params[12:] = [0, 0, 0, 0]
